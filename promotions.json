@@ -1,0 +1,26 @@
+[
+    {
+        "id": "promo1",
+        "title": "BOSCH | Kit de Filtros com 15% OFF",
+        "description": "Kit completo de filtros de ar, óleo e combustível.",
+        "promo_image_url": "assets/promo_bosch.png"
+    },
+    {
+        "id": "promo2",
+        "title": "SKF | Rolamentos e Cubos de Roda",
+        "description": "Qualidade original com preços especiais para oficinas.",
+        "promo_image_url": "assets/promo_skf.png"
+    },
+    {
+        "id": "promo3",
+        "title": "Castrol | Óleo Magnatec 5W40",
+        "description": "Compre a caixa com 12L e pague apenas 10L.",
+        "promo_image_url": "assets/promo_castrol.png"
+    },
+    {
+        "id": "promo4",
+        "title": "COFAP | Amortecedores Turbogás",
+        "description": "Na compra do par, ganhe a instalação.",
+        "promo_image_url": "assets/promo_cofap.png"
+    }
+]
