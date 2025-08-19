@@ -22,5 +22,11 @@
         "title": "COFAP | Amortecedores Turbog\u00e1s",
         "description": "TESTE DE CONEXAO 10:03H",
         "promo_image_url": "https://pub-fc8f56a979654e01ac95805d8e6be426.r2.dev/promo_6946eb10-57c9-4445-87ae-eaeaed0df779.jpg?v=1755635991"
+    },
+    {
+        "title": "Promo Teste c89f6e76",
+        "description": "Descri\u00e7\u00e3o de teste para a promo\u00e7\u00e3o.",
+        "id": "promo_0a4a3ad8-1ac3-46db-aac9-511b1a5405b4",
+        "promo_image_url": "https://pub-fc8f56a979654e01ac95805d8e6be426.r2.dev/promo_204e5a28-7d33-4673-b4c2-7d699c122a7f.png?v=1755646898"
     }
 ]
