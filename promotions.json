@@ -22,5 +22,11 @@
         "title": "TESTE 4",
         "description": "TESTE 4",
         "promo_image_url": "https://pub-fc8f56a979654e01ac95805d8e6be426.r2.dev/promo_fbdbe23c-08a0-4d32-898c-c86ddac27581.png?v=1755788324"
+    },
+    {
+        "title": "TESTE 5",
+        "description": "TESTE 5",
+        "id": "promo_4e2c1e78-f059-4f98-8373-88b8487653fe",
+        "promo_image_url": "https://pub-fc8f56a979654e01ac95805d8e6be426.r2.dev/promo_332bc71f-f72c-4bba-bc99-27e794b2ae58.png?v=1755788413"
     }
 ]
