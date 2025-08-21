@@ -28,11 +28,5 @@
         "description": "TESTE 5",
         "id": "promo_4e2c1e78-f059-4f98-8373-88b8487653fe",
         "promo_image_url": "https://pub-fc8f56a979654e01ac95805d8e6be426.r2.dev/promo_332bc71f-f72c-4bba-bc99-27e794b2ae58.png?v=1755788413"
-    },
-    {
-        "title": "Promo Teste 25fe4c43_EDITADO",
-        "description": "Descri\u00e7\u00e3o de teste para a promo\u00e7\u00e3o.",
-        "id": "promo_fa881faf-d83f-4e1f-a768-231c19d910f8",
-        "promo_image_url": "https://pub-fc8f56a979654e01ac95805d8e6be426.r2.dev/promo_7a16fda4-e45e-4ee6-a338-05568a637136.png?v=1755812751"
     }
 ]
